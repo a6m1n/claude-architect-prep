@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# JetBrains / IntelliJ IDE config (personal, per-machine)
+.idea/
+
+# Claude Code — local, per-machine settings (personal overrides; not shared)
+.claude/settings.local.json
+
+# Personal study progress (per-user SR state; regenerable via progress-tracker `init`)
+exam-notes/progress.json
+
+# Anthropic's copyrighted exam materials are intentionally not committed
+# (kept local only, if at all). The repo links to the official guide instead.
+/official pdfs/
